@@ -20,8 +20,12 @@ Pewlett-Hackard is faced with a large portion of their employees nearing retirem
 
         -1549 employees are eligible for the mentorship program 
 	
-  
-
+  ![](Images/Mentorship_Program.png)
+  MENTORSHIP PROGRAM
+  ![](Images/Retirement_titles.png)
+  RETIREMENT TITLES
+  ![](Images/Unique_titles.png)
+   UNIQUE TITLES
 ## Summary: 
 1.How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
 
